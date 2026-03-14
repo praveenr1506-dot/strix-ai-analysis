@@ -10,7 +10,7 @@ Total Findings Reported: 1 (Critical Aggregated Finding)
 
 The tool reported a consolidated high-severity vulnerability combining SSRF, XSS, SQL Injection, and Information Disclosure. Manual validation was performed to confirm exploitability.
 
-Finding 1 — Aggregated Critical Vulnerability Report
+Finding  — Aggregated Critical Vulnerability Report
 
 Severity (Tool Reported): Critical
 CVSS (Tool Reported): 10.0
